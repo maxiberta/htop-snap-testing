@@ -1,4 +1,4 @@
-name: htop-snap
+name: htop
 version: 2.1.0-devel
 summary: Interactive processes viewer
 description: |
